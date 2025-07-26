@@ -2,7 +2,7 @@
 
 **Final Year CSE Student @ CBIT | Former QAE Intern @ Amazon**
 
-I’m a full-stack developer who enjoys building scalable backend systems, user-focused frontend interfaces, and smart automation tools. Whether it's designing REST APIs, integrating AI feedback into platforms, or optimizing performance dashboards, I enjoy creating impactful products that solve real problems. My recent work includes building an internal dashboard for Amazon and a full-stack AI-powered coding platform.
+I’m a full-stack developer passionate about building scalable systems, intuitive user interfaces, and intelligent automation tools. From designing robust REST APIs and integrating modern frameworks to developing internal dashboards and performance tools, I focus on creating impactful, real-world solutions. Recently, I built an internal dashboard at Amazon and an AI-powered resume analyzer.
 
 ---
 
@@ -11,19 +11,17 @@ I’m a full-stack developer who enjoys building scalable backend systems, user-
 **Languages:** JavaScript, TypeScript, Python, Java  
 **Frontend:** React, Next.js, Tailwind CSS, Redux, Zustand  
 **Backend:** Node.js, Express, Prisma, REST APIs, PostgreSQL, MongoDB  
-**DevOps/Tools:** Docker, Redis, GitHub Actions, JWT, Cloudinary, Postman  
-**Others:** Judge0, Gemini API, WebSockets, Matplotlib
+**DevOps/Tools:** Docker, GitHub Actions, JWT, Postman  
 
 ---
 
 ##  Highlight Projects
+###  [Rezume – AI-Powered Resume Analyzer](https://github.com/Manasa-iota/Rezume) • [Live Demo](https://willowy-entremet-5a2fb0.netlify.app/)
 
-###  [Code0 – Competitive Coding Platform with AI Feedback](https://github.com/Manasa-iota/code0)
+A web application resume optimization tool where users can upload resumes and receive AI-generated feedback tailored to job titles, companies, and job descriptions. Features real-time PDF preview, analysis history, and personalized suggestions to boost ATS score and job readiness.
 
-A full-stack competitive coding platform where users can write, run, and submit code in real time using Judge0. Integrated Gemini API for smart code hints and Whisper API for voice feedback. Features leaderboard, submission history, async job queues using Redis, and scalable Docker-based services.
-
--  Stack: React, Node.js, PostgreSQL, Prisma, Docker, Redis
--  Includes: AI integrations (Gemini + Whisper), CI/CD with GitHub Actions
+-  Stack: React, TypeScript, Tailwind CSS, Zustand, Vite
+-  Includes: AI-driven feedback engine, real-time PDF rendering, and resume scoring
 
 ---
 
